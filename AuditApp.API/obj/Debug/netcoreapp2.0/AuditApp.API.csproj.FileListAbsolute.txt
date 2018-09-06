@@ -1,0 +1,11 @@
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\bin\Debug\netcoreapp2.0\AuditApp.API.deps.json
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\bin\Debug\netcoreapp2.0\AuditApp.API.runtimeconfig.json
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\bin\Debug\netcoreapp2.0\AuditApp.API.runtimeconfig.dev.json
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\bin\Debug\netcoreapp2.0\AuditApp.API.dll
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\bin\Debug\netcoreapp2.0\AuditApp.API.pdb
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\obj\Debug\netcoreapp2.0\AuditApp.API.csprojAssemblyReference.cache
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\obj\Debug\netcoreapp2.0\AuditApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\obj\Debug\netcoreapp2.0\AuditApp.API.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\obj\Debug\netcoreapp2.0\AuditApp.API.AssemblyInfo.cs
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\obj\Debug\netcoreapp2.0\AuditApp.API.dll
+C:\Users\Paul\Desktop\Electro_Cloud\AuditApp\AuditApp.API\obj\Debug\netcoreapp2.0\AuditApp.API.pdb
